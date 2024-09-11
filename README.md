@@ -22,6 +22,7 @@ npm i drizzle-orm
 npm i drizzle-kit -D
 npm i zod
 npm i postgres
+npm i @paralleldrive/cuid2
 ```
 
 Create the tsconfig.json (change the contents according with the [TSConfig bases](https://github.com/tsconfig/bases)):
